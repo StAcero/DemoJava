@@ -40,7 +40,7 @@ public class DemoApplication {
 	metas.printTask();
 */
 	metas.removeTask("Recordar P00");
-	System.out.println("Tareas pendientes:");
+	System.out.println("Tareas pendientesss:");
 	metas.printTask();
 	}
 
